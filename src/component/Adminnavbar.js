@@ -7,6 +7,7 @@ const Adminnavbar = () =>{
 
     logout()
    
+   
   }
 
     return(
